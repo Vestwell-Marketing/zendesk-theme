@@ -62,10 +62,6 @@
           "label": "heading_font_label",
           "options": [
             {
-              "label": "Nunito Sans",
-              "value": "'Nunito Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-            },
-            {
               "label": "System",
               "value": "'Nunito Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
             },
@@ -139,12 +135,8 @@
           "label": "text_font_label",
           "options": [
             {
-              "label": "Nunito Sans",
-              "value": "'Nunito Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-            },
-            {
               "label": "System",
-              "value": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+              "value": "'Nunito Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
             },
             {
               "label": "Arial",
